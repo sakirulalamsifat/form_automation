@@ -1,0 +1,52 @@
+radio button= ctl00_MainContent_OfferSubmittedByUserType_RB7_I_D
+
+building_number= ctl00_MainContent_Building_StreetNumber
+
+street_name= ctl00_MainContent_Building_StreetName_I
+
+city=ctl00_MainContent_pnlNonNyc_Building_City_I
+
+state=ctl00_MainContent_pnlNonNyc_Building_State_I
+
+zip_code=ctl00_MainContent_pnlNonNyc_Building_Zip_I
+
+first_name=ctl00_MainContent_Contact_FName_I
+
+last_name=ctl00_MainContent_Contact_LName_I
+
+phone_number=ctl00_MainContent_Contact_PhonePrimary_I
+
+email_address= ctl00_MainContent_Contact_Email_I
+
+*Landlord*
+
+first_name=ctl00_MainContent_Landlord_FName_I
+
+last_name=ctl00_MainContent_Landlord_LName_I
+
+phone_number=ctl00_MainContent_Landlord_PhonePrimary_I
+
+email_address=ctl00_MainContent_Landlord_Email_I
+
+address=ctl00_MainContent_Landlord_AddressStreetName_I
+
+city=ctl00_MainContent_Landlord_AddressCity_I
+
+state=ctl00_MainContent_Landlord_AddressState_I
+
+zip_code=ctl00_MainContent_Landlord_AddressZip_I
+
+
+*Apartment*
+
+apartment_number= ctl00_MainContent_GridApartments_efnew_ASPxTextBoxUnit_Name_I
+
+floor=ctl00_MainContent_GridApartments_efnew_ASPxTextBoxUnit_Floor_I
+
+room = ctl00_MainContent_GridApartments_efnew_ASPxSpinEditUnit_NumberOfRooms_I
+
+bedroom= ctl00_MainContent_GridApartments_efnew_ASPxSpinEditUnit_NumberOfBedRooms_I
+
+condo_tax_block= ctl00_MainContent_GridApartments_efnew_pnlForCondoOnly_ASPxTextBoxCondoBlock_I
+
+condo_tax_lot= ctl00_MainContent_GridApartments_efnew_pnlForCondoOnly_ASPxTextBoxCondoLot_I
